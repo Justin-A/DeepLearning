@@ -1,2 +1,2 @@
 # DeepLearning
-- Framework : TensorFlow 2.0, PyTorch 1.3
+- Framework : TensorFlow 2.0, PyTorch 1.2
